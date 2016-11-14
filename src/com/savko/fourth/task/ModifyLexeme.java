@@ -1,4 +1,4 @@
-package com.savko.fourth.tasks;
+package com.savko.fourth.task;
 
 import com.savko.fourth.entity.Component;
 import com.savko.fourth.entity.Composite;

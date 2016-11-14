@@ -5,9 +5,9 @@ import com.savko.fourth.entity.Composite;
 import com.savko.fourth.exception.ReadFileException;
 import com.savko.fourth.parser.TextParser;
 import com.savko.fourth.reader.TextReader;
-import com.savko.fourth.tasks.DeleteLexemes;
-import com.savko.fourth.tasks.ModifyLexeme;
-import com.savko.fourth.tasks.SwitchLexemes;
+import com.savko.fourth.task.DeleteLexemes;
+import com.savko.fourth.task.ModifyLexeme;
+import com.savko.fourth.task.SwitchLexemes;
 import org.apache.log4j.Logger;
 
 public class AppRunner {
